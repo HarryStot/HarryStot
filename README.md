@@ -12,6 +12,13 @@ Engineering student passionate about robotics, embedded systems, and software de
 | [water_app](https://github.com/HarryStot/water_app) | Small web app for water tracking | HTML |
 | [codecrafters-shell-rust](https://github.com/HarryStot/codecrafters-shell-rust) | Shell implementation challenge (CodeCrafters) | Rust |
 | [CodeAdvent](https://github.com/HarryStot/CodeAdvent) | Advent of Code solutions | Python / Jupyter |
+| [Curo to Cook](https://github.com/HarryStot/curo-to-cook) | Scrap a website to get recipe into opensource file format | Python |
+
+
+I have some project that are for now in a private repo because I want to make sure to delete all personal data before.
+But I have for example:
+* An mobile app call Carbonito: To record day-to-day your carbon impact and understand what it means
+* A web app to make your own Critterpedia (from Animal Crossing): You can take picture of insects, mushroom, ... and save on the website when you saw it. 
 
 ---
 
