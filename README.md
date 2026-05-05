@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harry 👋
 
-<!--
-**HarryStot/HarryStot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student passionate about robotics, embedded systems, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [CFR25 – OverTheRainBot](https://github.com/HarryStot/CFR25_OverTheRainBot) | Competition robot for Coupe de France de Robotique 2025 | C++ |
+| [G2Elab](https://github.com/HarryStot/G2Elab) | Work done at G2Elab (electrical engineering research lab) | Python |
+| [water_app](https://github.com/HarryStot/water_app) | Small web app for water tracking | HTML |
+| [codecrafters-shell-rust](https://github.com/HarryStot/codecrafters-shell-rust) | Shell implementation challenge (CodeCrafters) | Rust |
+| [CodeAdvent](https://github.com/HarryStot/CodeAdvent) | Advent of Code solutions | Python / Jupyter |
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
