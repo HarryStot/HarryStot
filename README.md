@@ -1,4 +1,4 @@
-# Hi, I'm Harry 👋
+# Hi, I'm Nathan 👋
 
 Engineering student passionate about robotics, embedded systems, and software development.
 
