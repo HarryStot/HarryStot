@@ -8,6 +8,7 @@ Engineering student passionate about robotics, embedded systems, and software de
 
 | Project | Description | Tech |
 |---|---|---|
+| [ESP32 Departure Display](https://github.com/HarryStot/esp32-IDFM-departure-display) | ESP32 display using old manometer to show the time remaining to catch the next bus | Rust |
 | [CFR25 – OverTheRainBot](https://github.com/HarryStot/CFR25_OverTheRainBot) | Competition robot for Coupe de France de Robotique 2025 | C++ |
 | [water_app](https://github.com/HarryStot/water_app) | Small web app for water tracking | HTML |
 | [codecrafters-shell-rust](https://github.com/HarryStot/codecrafters-shell-rust) | Shell implementation challenge (CodeCrafters) | Rust |
